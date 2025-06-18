@@ -1,6 +1,10 @@
 # MyCertificates
 
-Welcome to my certificates repository! Here, you will find links to all my professional certificates.
+Welcome to my certificates repository! 
+
+All the pdf files or certificates are inside the folders! 
+
+Below here, you will find links to all my professional certificates.
 
 ---
 
